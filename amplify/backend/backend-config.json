@@ -1,0 +1,14 @@
+{
+	"auth": {
+		"cognito59d6e602": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"analytics": {
+		"sampleAwsAmplify": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
